@@ -299,6 +299,7 @@ Go to the [Text To Speech](#text-to-speech) section.
 - [Blasta](https://git.xmpp-it.net/sch/Blasta) - A collaborative bookmarks manager for organizing online content.
 - [Hypothesis](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
 - [Kobuddy](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
+- [Leafed](https://github.com/productparty/leafed) - Privacy-first book discovery app. All reading data stays on your device. Scan barcodes, import from Goodreads, capture quotes with OCR, discover indie authors. No accounts, no tracking, no algorithms. (iOS, Android via Expo) https://leafed.app
 
 [Back to top 🔝](#contents)
 
